@@ -29,7 +29,7 @@ Looking for Dois...
 We added 49 DOIs !
 Before: 42/162 entries had DOI
 Now: 91/162 entries have DOI
-Writing result to  test.bib_doi.bib
+Writing result to  {bib-file-name}.bib_doi.bib
 ```
 
 You can now just check {bib-file-name}.bib_doi.bib.
